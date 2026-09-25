@@ -1,0 +1,443 @@
+{
+  "generated_from": "../corpus/cei/class",
+  "num_abstracts": 3661,
+  "num_label_occurrences": 17632,
+  "num_top_level_components": 3,
+  "forest": [
+    {
+      "name": "biomonitoring",
+      "count": 10,
+      "subtree": 9419,
+      "children": [
+        {
+          "name": "effect marker",
+          "count": 92,
+          "subtree": 2733,
+          "children": [
+            {
+              "name": "biomarker",
+              "count": 30,
+              "subtree": 1299,
+              "children": [
+                {
+                  "name": "gene",
+                  "count": 244,
+                  "subtree": 244,
+                  "children": []
+                },
+                {
+                  "name": "molecule",
+                  "count": 63,
+                  "subtree": 835,
+                  "children": [
+                    {
+                      "name": "lipid",
+                      "count": 139,
+                      "subtree": 139,
+                      "children": []
+                    },
+                    {
+                      "name": "other molecule",
+                      "count": 199,
+                      "subtree": 199,
+                      "children": []
+                    },
+                    {
+                      "name": "protein",
+                      "count": 434,
+                      "subtree": 434,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "other",
+                  "count": 91,
+                  "subtree": 91,
+                  "children": []
+                },
+                {
+                  "name": "oxidative stress",
+                  "count": 99,
+                  "subtree": 99,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "physiological parameter",
+              "count": 1342,
+              "subtree": 1342,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "exposure biomarker",
+          "count": 114,
+          "subtree": 6676,
+          "children": [
+            {
+              "name": "adipose tissue",
+              "count": 177,
+              "subtree": 177,
+              "children": []
+            },
+            {
+              "name": "blood",
+              "count": 1329,
+              "subtree": 2290,
+              "children": [
+                {
+                  "name": "children",
+                  "count": 229,
+                  "subtree": 229,
+                  "children": []
+                },
+                {
+                  "name": "cord blood",
+                  "count": 325,
+                  "subtree": 325,
+                  "children": []
+                },
+                {
+                  "name": "pregnant women",
+                  "count": 284,
+                  "subtree": 284,
+                  "children": []
+                },
+                {
+                  "name": "workers",
+                  "count": 123,
+                  "subtree": 123,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "hair nail",
+              "count": 877,
+              "subtree": 1177,
+              "children": [
+                {
+                  "name": "children",
+                  "count": 140,
+                  "subtree": 140,
+                  "children": []
+                },
+                {
+                  "name": "pregnant women",
+                  "count": 97,
+                  "subtree": 97,
+                  "children": []
+                },
+                {
+                  "name": "workers",
+                  "count": 63,
+                  "subtree": 63,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "mothers milk",
+              "count": 377,
+              "subtree": 377,
+              "children": []
+            },
+            {
+              "name": "other",
+              "count": 303,
+              "subtree": 303,
+              "children": []
+            },
+            {
+              "name": "placenta",
+              "count": 136,
+              "subtree": 136,
+              "children": []
+            },
+            {
+              "name": "urine",
+              "count": 1467,
+              "subtree": 2102,
+              "children": [
+                {
+                  "name": "children",
+                  "count": 270,
+                  "subtree": 270,
+                  "children": []
+                },
+                {
+                  "name": "pregnant women",
+                  "count": 138,
+                  "subtree": 138,
+                  "children": []
+                },
+                {
+                  "name": "workers",
+                  "count": 227,
+                  "subtree": 227,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "exposure routes",
+      "count": 214,
+      "subtree": 7399,
+      "children": [
+        {
+          "name": "combined",
+          "count": 218,
+          "subtree": 218,
+          "children": []
+        },
+        {
+          "name": "dermal uptake",
+          "count": 263,
+          "subtree": 392,
+          "children": [
+            {
+              "name": "children",
+              "count": 38,
+              "subtree": 38,
+              "children": []
+            },
+            {
+              "name": "pregnant women",
+              "count": 10,
+              "subtree": 10,
+              "children": []
+            },
+            {
+              "name": "workers",
+              "count": 81,
+              "subtree": 81,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "inhalation",
+          "count": 510,
+          "subtree": 2358,
+          "children": [
+            {
+              "name": "modeled exposure",
+              "count": 453,
+              "subtree": 630,
+              "children": [
+                {
+                  "name": "children",
+                  "count": 89,
+                  "subtree": 89,
+                  "children": []
+                },
+                {
+                  "name": "pregnant women",
+                  "count": 85,
+                  "subtree": 85,
+                  "children": []
+                },
+                {
+                  "name": "workers",
+                  "count": 3,
+                  "subtree": 3,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "other",
+              "count": 434,
+              "subtree": 741,
+              "children": [
+                {
+                  "name": "children",
+                  "count": 110,
+                  "subtree": 110,
+                  "children": []
+                },
+                {
+                  "name": "pregnant women",
+                  "count": 30,
+                  "subtree": 30,
+                  "children": []
+                },
+                {
+                  "name": "workers",
+                  "count": 167,
+                  "subtree": 167,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "personal measurement",
+              "count": 286,
+              "subtree": 477,
+              "children": [
+                {
+                  "name": "children",
+                  "count": 27,
+                  "subtree": 27,
+                  "children": []
+                },
+                {
+                  "name": "pregnant women",
+                  "count": 32,
+                  "subtree": 32,
+                  "children": []
+                },
+                {
+                  "name": "workers",
+                  "count": 132,
+                  "subtree": 132,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "oral intake",
+          "count": 73,
+          "subtree": 4217,
+          "children": [
+            {
+              "name": "drinking water",
+              "count": 831,
+              "subtree": 972,
+              "children": [
+                {
+                  "name": "children",
+                  "count": 89,
+                  "subtree": 89,
+                  "children": []
+                },
+                {
+                  "name": "pregnant women",
+                  "count": 52,
+                  "subtree": 52,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "dust",
+              "count": 530,
+              "subtree": 791,
+              "children": [
+                {
+                  "name": "children",
+                  "count": 172,
+                  "subtree": 172,
+                  "children": []
+                },
+                {
+                  "name": "pregnant women",
+                  "count": 7,
+                  "subtree": 7,
+                  "children": []
+                },
+                {
+                  "name": "workers",
+                  "count": 82,
+                  "subtree": 82,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "food",
+              "count": 1304,
+              "subtree": 1660,
+              "children": [
+                {
+                  "name": "children",
+                  "count": 228,
+                  "subtree": 228,
+                  "children": []
+                },
+                {
+                  "name": "pregnant women",
+                  "count": 128,
+                  "subtree": 128,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "products",
+              "count": 294,
+              "subtree": 410,
+              "children": [
+                {
+                  "name": "children",
+                  "count": 72,
+                  "subtree": 72,
+                  "children": []
+                },
+                {
+                  "name": "pregnant women",
+                  "count": 44,
+                  "subtree": 44,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "soil",
+              "count": 208,
+              "subtree": 311,
+              "children": [
+                {
+                  "name": "children",
+                  "count": 92,
+                  "subtree": 92,
+                  "children": []
+                },
+                {
+                  "name": "pregnant women",
+                  "count": 9,
+                  "subtree": 9,
+                  "children": []
+                },
+                {
+                  "name": "workers",
+                  "count": 2,
+                  "subtree": 2,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "site comparisons",
+      "count": 72,
+      "subtree": 814,
+      "children": [
+        {
+          "name": "polluted area",
+          "count": 342,
+          "subtree": 342,
+          "children": []
+        },
+        {
+          "name": "workplace",
+          "count": 400,
+          "subtree": 400,
+          "children": []
+        }
+      ]
+    }
+  ]
+}
