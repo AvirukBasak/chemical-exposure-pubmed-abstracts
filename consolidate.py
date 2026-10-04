@@ -73,7 +73,7 @@ for text, article_labels in zip(texts, labels):
     rows.append(row)
 
 df = pd.DataFrame(rows, columns=["article"] + all_labels)
-df.to_csv("10.6084_m9.figshare.4668229.csv", index=False)
+df.to_csv("chemical_exposure.csv", index=False)
 
 print("articles:", len(df))
 print("label columns:", len(all_labels))

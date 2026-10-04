@@ -140,7 +140,7 @@ def main():
     st.title("Chemical-exposure label taxonomy")
 
     if not os.path.exists(DATA):
-        st.error("Missing %s — run:  python code/preprocess_taxonomy.py" % DATA)
+        st.error("Missing %s — run:  python taxonomy_preprocess.py" % DATA)
         return
 
     data = load(DATA)

@@ -1,5 +1,5 @@
 {
-  "generated_from": "../corpus/cei/class",
+  "generated_from": "data/corpus/cei/class",
   "num_abstracts": 3661,
   "num_label_occurrences": 17632,
   "num_top_level_components": 3,

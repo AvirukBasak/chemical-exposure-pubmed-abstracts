@@ -20,7 +20,7 @@ import json
 import os
 
 CORPUS = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                      "..", "corpus", "cei", "class")
+                      "data", "corpus", "cei", "class")
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "taxonomy.json")
 
 
